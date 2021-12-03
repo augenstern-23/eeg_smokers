@@ -6,3 +6,6 @@ data/
 
 # jupyter notebook
 .ipynb_checkpoints
+
+# python stuff
+__pycache__
